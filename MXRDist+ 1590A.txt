@@ -1,0 +1,35 @@
+Partlist
+
+Exported from MXRDist+ 1590A.sch at 1/18/2014 9:37:03 AM
+
+EAGLE Version 6.5.0 Copyright (c) 1988-2013 CadSoft
+
+Assembly variant: 
+
+Part     Value          Device       Package       Library          Sheet
+
++9V      +9V(T)         +9V(T)       SQUARE        mb_supply        1
+C1       1uF            044A1        044A          mb_caps-tant     1
+C2       0.01uF         070X0302     070X030       mb_caps-chicklet 1
+C3       0.001uF        070X0302     070X030       mb_caps-chicklet 1
+C4       0.047uF        070X0302     070X030       mb_caps-chicklet 1
+C5       10pF           050X030_0501 050X030_050_1 mb_caps-ceramic  1
+C6       4.7uF          044A1        044A          mb_caps-tant     1
+C7       0.001uF        070X0302     070X030       mb_caps-chicklet 1
+D1       1N914.2        1N914.2      DO35-2        mb_diodes        1
+D2       1N914.2        1N914.2      DO35-2        mb_diodes        1
+DRIVE    C500k          9MM          POT_9MM_PACK  mb_9mm Pot       1
+GND      GND(T)         GND(T)       SQUARE        mb_supply        1
+IC1      LM741P         LM741P       DIL08         mb_ics           1
+IN       IN(T)          IN(T)        SQUARE        mb_supply        1
+LED      LED3MM         LED3MM       LED3MM        mb_diodes        1
+OUT      OUT(T)         OUT(T)       SQUARE        mb_supply        1
+R1       4k7            6MM.1        R0207/1V      mb_resistors     1
+R2       1M             6MM.1        R0207/1V      mb_resistors     1
+R3       1M             6MM.1        R0207/1V      mb_resistors     1
+R4       1M             6MM.1        R0207/1V      mb_resistors     1
+R5       10K            6MM.1        R0207/1V      mb_resistors     1
+R6       4.7K           6MM.1        R0207/1V      mb_resistors     1
+R8       1M             6MM.1        R0207/1V      mb_resistors     1
+R9       10K            6MM.1        R0207/1V      mb_resistors     1
+VOL      A50K           9MM          POT_9MM_PACK  mb_9mm Pot       1
